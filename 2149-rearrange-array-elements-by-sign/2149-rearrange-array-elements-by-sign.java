@@ -3,28 +3,17 @@ class Solution {
 
         int numsLength = nums.length;
         int[] finalAns = new int[nums.length];
-        int[] pos = new int[nums.length / 2];
-        int[] neg = new int[nums.length / 2];
+        int pos=0,neg=1,i;
 
-        int posIndex = 0;
-        int negIndex = 0;
-        for (int i = 0; i < numsLength; i++) {
+        for( i = 0; i <numsLength; i++) {
             if (nums[i] > 0) {
-                pos[posIndex] = nums[i];
-                posIndex++;
+                finalAns[pos]=nums[i];
+                pos=pos+2;
             } else {
-                neg[negIndex] = nums[i];
-                negIndex++;
+               finalAns[neg]=nums[i];
+               neg=neg+2;
             }
         }
-
-        int finalIndex = 0;
-        for (int i = 0; i < numsLength / 2; i++) {
-            finalAns[finalIndex] = pos[i];
-            finalAns[finalIndex + 1] = neg[i];
-            finalIndex = finalIndex + 2;
-        }
-
         return finalAns;
     }
 }
