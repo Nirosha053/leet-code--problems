@@ -1,17 +1,23 @@
-
+import java.util.*;
 class Solution {
     public int[] twoSum(int[] nums, int target) {
-        int i,j;
+    
         int [] ans=new int[2];
+        int i;
+        HashMap<Integer,Integer> h1=new HashMap<>();
         for(i=0;i<nums.length;i++){
-            for(j=i+1;j<nums.length;j++){
-                if(nums[i]+nums[j]==target){
-                    ans[0]=i;
-                    ans[1]=j;
+           
+                int dif=target-nums[i];
+                var value=h1.get(dif);
+                if(value!=null){
+                    ans[0]=value;
+                    ans[1]=i;
                     return ans;
+
                 }
+                h1.put(nums[i],i);
             }
-        }
+        
         return ans;
             }
 
