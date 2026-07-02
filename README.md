@@ -58,12 +58,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0349-intersection-of-two-arrays) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Nirosha053/leet-code--10-problems/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0242-valid-anagram](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0929-unique-email-addresses](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0929-unique-email-addresses) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Nirosha053/leet-code--10-problems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0217-contains-duplicate](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0575-distribute-candies](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0575-distribute-candies) |
