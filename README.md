@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0575-distribute-candies) |
 | [0643-maximum-average-subarray-i](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0704-binary-search) |
+| [0706-design-hashmap](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0706-design-hashmap) |
 | [0724-find-pivot-index](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0724-find-pivot-index) |
 | [0929-unique-email-addresses](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0929-unique-email-addresses) |
 | [1004-max-consecutive-ones-iii](https://github.com/Nirosha053/leet-code--10-problems/tree/master/1004-max-consecutive-ones-iii) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0567-permutation-in-string) |
 | [0575-distribute-candies](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0575-distribute-candies) |
+| [0706-design-hashmap](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0706-design-hashmap) |
 | [0929-unique-email-addresses](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0929-unique-email-addresses) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Nirosha053/leet-code--10-problems/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Nirosha053/leet-code--10-problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -178,11 +180,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0706-design-hashmap](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0706-design-hashmap) |
 | [0876-middle-of-the-linked-list](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0876-middle-of-the-linked-list) |
 ## Design
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0303-range-sum-query-immutable) |
+| [0706-design-hashmap](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0706-design-hashmap) |
 ## Matrix
 |  |
 | ------- |
@@ -196,4 +200,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0053-maximum-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
