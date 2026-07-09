@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0088-merge-sorted-array) |
+| [0141-linked-list-cycle](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0189-rotate-array) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0049-group-anagrams) |
+| [0141-linked-list-cycle](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0142-linked-list-cycle-ii) |
 | [0217-contains-duplicate](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0242-valid-anagram) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0206-reverse-linked-list) |
 | [0706-design-hashmap](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0706-design-hashmap) |
