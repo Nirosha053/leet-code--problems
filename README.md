@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0142-linked-list-cycle-ii) |
+| [0206-reverse-linked-list](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0206-reverse-linked-list) |
 | [0706-design-hashmap](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0706-design-hashmap) |
 | [0876-middle-of-the-linked-list](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0876-middle-of-the-linked-list) |
 ## Design
@@ -216,4 +217,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0706-design-hashmap](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0706-design-hashmap) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
