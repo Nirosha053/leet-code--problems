@@ -3,22 +3,19 @@ import java.util.*;
 class Solution {
     public int[] nextGreaterElement(int[] nums1, int[] nums2) {
 
-        ArrayList<Integer> arr = nextLargerElement(nums2);
-
+        var arr = nextLargerElement(nums2);
+         int i,j ,index=0;
         int[] ans = new int[nums1.length];
+        HashMap<Integer,Integer> h1=new HashMap<>();
+      
 
-        int i, j;
-
-        for (i = 0; i < nums1.length; i++) {
-            for (j = 0; j < nums2.length; j++) {
-
-                if (nums1[i] == nums2[j]) {
-                    ans[i] = arr.get(j);
-                    break;
-                }
-            }
+        for (i = 0; i < nums2.length; i++) {
+            h1.put(nums2[i],i);
         }
-
+       for(i=0;i<nums1.length;i++){
+        int index1=h1.get(nums1[i]);
+        ans[index++]=arr.get(index1);
+       }
         return ans;
     }
 
