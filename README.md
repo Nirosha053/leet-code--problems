@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0704-binary-search) |
 | [0706-design-hashmap](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0706-design-hashmap) |
 | [0724-find-pivot-index](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0739-daily-temperatures) |
 | [0867-transpose-matrix](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0867-transpose-matrix) |
 | [0929-unique-email-addresses](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0929-unique-email-addresses) |
 | [1004-max-consecutive-ones-iii](https://github.com/Nirosha053/leet-code--10-problems/tree/master/1004-max-consecutive-ones-iii) |
@@ -240,4 +241,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0234-palindrome-linked-list) |
+| [0739-daily-temperatures](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0739-daily-temperatures) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
