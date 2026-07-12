@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Nirosha053/leet-code--10-problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Nirosha053/leet-code--10-problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Nirosha053/leet-code--10-problems/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1672-richest-customer-wealth](https://github.com/Nirosha053/leet-code--10-problems/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/Nirosha053/leet-code--10-problems/tree/master/1732-find-the-highest-altitude) |
 | [1929-concatenation-of-array](https://github.com/Nirosha053/leet-code--10-problems/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Nirosha053/leet-code--10-problems/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0074-search-a-2d-matrix) |
 | [0867-transpose-matrix](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0867-transpose-matrix) |
+| [1672-richest-customer-wealth](https://github.com/Nirosha053/leet-code--10-problems/tree/master/1672-richest-customer-wealth) |
 | [2906-construct-product-matrix](https://github.com/Nirosha053/leet-code--10-problems/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Nirosha053/leet-code--10-problems/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 ## Divide and Conquer
