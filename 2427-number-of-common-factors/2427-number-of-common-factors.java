@@ -1,14 +1,14 @@
 class Solution {
     public int commonFactors(int a, int b) {
-        int g = gcd(a, b);
-        int count = 0;
-        for (int i = 1; i <= g; i++) {
-            if (g % i == 0) count++;
+        int c = Math.min(a, b);
+        int t = 0;
+
+        for (int i = 1; i <= c; i++) {
+            if (a % i == 0 && b % i == 0) {
+                t++;
+            }
         }
-        return count;
-    }
-    
-    private int gcd(int a, int b) {
-        return b == 0 ? a : gcd(b, a % b);
+
+        return t;
     }
 }
