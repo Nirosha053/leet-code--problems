@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0263-ugly-number) |
+| [0509-fibonacci-number](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0509-fibonacci-number) |
 | [0728-self-dividing-numbers](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0728-self-dividing-numbers) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Nirosha053/leet-code--10-problems/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Nirosha053/leet-code--10-problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0053-maximum-subarray) |
+| [0509-fibonacci-number](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0509-fibonacci-number) |
 ## Hash Function
 |  |
 | ------- |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0234-palindrome-linked-list) |
+| [0509-fibonacci-number](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0509-fibonacci-number) |
 ## Stack
 |  |
 | ------- |
@@ -309,4 +312,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2427-number-of-common-factors](https://github.com/Nirosha053/leet-code--10-problems/tree/master/2427-number-of-common-factors) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
