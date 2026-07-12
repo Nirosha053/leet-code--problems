@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Nirosha053/leet-code--10-problems/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Nirosha053/leet-code--10-problems/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2235-add-two-integers](https://github.com/Nirosha053/leet-code--10-problems/tree/master/2235-add-two-integers) |
+| [2427-number-of-common-factors](https://github.com/Nirosha053/leet-code--10-problems/tree/master/2427-number-of-common-factors) |
 | [2469-convert-the-temperature](https://github.com/Nirosha053/leet-code--10-problems/tree/master/2469-convert-the-temperature) |
 | [2485-find-the-pivot-integer](https://github.com/Nirosha053/leet-code--10-problems/tree/master/2485-find-the-pivot-integer) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Nirosha053/leet-code--10-problems/tree/master/2520-count-the-digits-that-divide-a-number) |
@@ -300,4 +301,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0258-add-digits) |
+| [2427-number-of-common-factors](https://github.com/Nirosha053/leet-code--10-problems/tree/master/2427-number-of-common-factors) |
+## Enumeration
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/Nirosha053/leet-code--10-problems/tree/master/2427-number-of-common-factors) |
 <!---LeetCode Topics End-->
