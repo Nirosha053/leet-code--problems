@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0303-range-sum-query-immutable) |
 | [0706-design-hashmap](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0706-design-hashmap) |
+| [0901-online-stock-span](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0901-online-stock-span) |
 ## Matrix
 |  |
 | ------- |
@@ -249,10 +250,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0901-online-stock-span) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
