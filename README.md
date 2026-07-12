@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0258-add-digits) |
 | [0728-self-dividing-numbers](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0728-self-dividing-numbers) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Nirosha053/leet-code--10-problems/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0287-find-the-duplicate-number) |
 ## Prefix Sum
 |  |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0234-palindrome-linked-list) |
 ## Stack
 |  |
