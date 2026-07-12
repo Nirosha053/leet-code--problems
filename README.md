@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/Nirosha053/leet-code--10-problems/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/Nirosha053/leet-code--10-problems/tree/master/1732-find-the-highest-altitude) |
 | [1929-concatenation-of-array](https://github.com/Nirosha053/leet-code--10-problems/tree/master/1929-concatenation-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Nirosha053/leet-code--10-problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Nirosha053/leet-code--10-problems/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Nirosha053/leet-code--10-problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2906-construct-product-matrix](https://github.com/Nirosha053/leet-code--10-problems/tree/master/2906-construct-product-matrix) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Nirosha053/leet-code--10-problems/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/Nirosha053/leet-code--10-problems/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Nirosha053/leet-code--10-problems/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Nirosha053/leet-code--10-problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2129-capitalize-the-title](https://github.com/Nirosha053/leet-code--10-problems/tree/master/2129-capitalize-the-title) |
 ## Simulation
 |  |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0657-robot-return-to-origin) |
 | [0867-transpose-matrix](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0867-transpose-matrix) |
 | [1929-concatenation-of-array](https://github.com/Nirosha053/leet-code--10-problems/tree/master/1929-concatenation-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Nirosha053/leet-code--10-problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Nirosha053/leet-code--10-problems/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Nirosha053/leet-code--10-problems/tree/master/2180-count-integers-with-even-digit-sum) |
 ## Two Pointers
