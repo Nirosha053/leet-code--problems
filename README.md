@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0189-rotate-array) |
+| [0258-add-digits](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0258-add-digits) |
 | [0728-self-dividing-numbers](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0728-self-dividing-numbers) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Nirosha053/leet-code--10-problems/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Nirosha053/leet-code--10-problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0258-add-digits) |
 | [0657-robot-return-to-origin](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0657-robot-return-to-origin) |
 | [0867-transpose-matrix](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0867-transpose-matrix) |
 | [1929-concatenation-of-array](https://github.com/Nirosha053/leet-code--10-problems/tree/master/1929-concatenation-of-array) |
@@ -291,4 +293,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0239-sliding-window-maximum) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
