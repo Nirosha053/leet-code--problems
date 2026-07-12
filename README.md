@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Nirosha053/leet-code--10-problems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Nirosha053/leet-code--10-problems/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Nirosha053/leet-code--10-problems/tree/master/1812-determine-color-of-a-chessboard-square) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Nirosha053/leet-code--10-problems/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/Nirosha053/leet-code--10-problems/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Nirosha053/leet-code--10-problems/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Nirosha053/leet-code--10-problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0575-distribute-candies) |
 | [0706-design-hashmap](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0706-design-hashmap) |
 | [0929-unique-email-addresses](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0929-unique-email-addresses) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Nirosha053/leet-code--10-problems/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Nirosha053/leet-code--10-problems/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Nirosha053/leet-code--10-problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3668-restore-finishing-order](https://github.com/Nirosha053/leet-code--10-problems/tree/master/3668-restore-finishing-order) |
