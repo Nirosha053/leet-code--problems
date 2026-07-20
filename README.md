@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0202-happy-number) |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0074-search-a-2d-matrix) |
 | [0867-transpose-matrix](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0867-transpose-matrix) |
 | [1672-richest-customer-wealth](https://github.com/Nirosha053/leet-code--10-problems/tree/master/1672-richest-customer-wealth) |
