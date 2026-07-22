@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0706-design-hashmap) |
 | [0724-find-pivot-index](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0739-daily-temperatures) |
+| [0817-linked-list-components](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0817-linked-list-components) |
 | [0867-transpose-matrix](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0867-transpose-matrix) |
 | [0929-unique-email-addresses](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0929-unique-email-addresses) |
 | [1004-max-consecutive-ones-iii](https://github.com/Nirosha053/leet-code--10-problems/tree/master/1004-max-consecutive-ones-iii) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0567-permutation-in-string) |
 | [0575-distribute-candies](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0575-distribute-candies) |
 | [0706-design-hashmap](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0706-design-hashmap) |
+| [0817-linked-list-components](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0817-linked-list-components) |
 | [0929-unique-email-addresses](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0929-unique-email-addresses) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Nirosha053/leet-code--10-problems/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Nirosha053/leet-code--10-problems/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0234-palindrome-linked-list) |
 | [0706-design-hashmap](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0706-design-hashmap) |
 | [0707-design-linked-list](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0707-design-linked-list) |
+| [0817-linked-list-components](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0817-linked-list-components) |
 | [0876-middle-of-the-linked-list](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0876-middle-of-the-linked-list) |
 ## Design
 |  |
