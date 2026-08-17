@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Nirosha053/leet-code--10-problems/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Nirosha053/leet-code--10-problems/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2235-add-two-integers](https://github.com/Nirosha053/leet-code--10-problems/tree/master/2235-add-two-integers) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/Nirosha053/leet-code--10-problems/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2427-number-of-common-factors](https://github.com/Nirosha053/leet-code--10-problems/tree/master/2427-number-of-common-factors) |
 | [2443-sum-of-number-and-its-reverse](https://github.com/Nirosha053/leet-code--10-problems/tree/master/2443-sum-of-number-and-its-reverse) |
 | [2469-convert-the-temperature](https://github.com/Nirosha053/leet-code--10-problems/tree/master/2469-convert-the-temperature) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Nirosha053/leet-code--10-problems/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Nirosha053/leet-code--10-problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2129-capitalize-the-title](https://github.com/Nirosha053/leet-code--10-problems/tree/master/2129-capitalize-the-title) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/Nirosha053/leet-code--10-problems/tree/master/2269-find-the-k-beauty-of-a-number) |
 ## Simulation
 |  |
 | ------- |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Nirosha053/leet-code--10-problems/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Nirosha053/leet-code--10-problems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Nirosha053/leet-code--10-problems/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/Nirosha053/leet-code--10-problems/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Nirosha053/leet-code--10-problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Counting
 |  |
