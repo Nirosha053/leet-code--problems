@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0263-ugly-number) |
+| [0273-integer-to-english-words](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0273-integer-to-english-words) |
 | [0509-fibonacci-number](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0509-fibonacci-number) |
 | [0728-self-dividing-numbers](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0728-self-dividing-numbers) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Nirosha053/leet-code--10-problems/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0242-valid-anagram) |
+| [0273-integer-to-english-words](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0273-integer-to-english-words) |
 | [0387-first-unique-character-in-a-string](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0567-permutation-in-string) |
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0234-palindrome-linked-list) |
+| [0273-integer-to-english-words](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0273-integer-to-english-words) |
 | [0509-fibonacci-number](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0509-fibonacci-number) |
 ## Stack
 |  |
