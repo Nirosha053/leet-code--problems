@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0273-integer-to-english-words) |
 | [0509-fibonacci-number](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0509-fibonacci-number) |
 | [0728-self-dividing-numbers](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0728-self-dividing-numbers) |
+| [1030-matrix-cells-in-distance-order](https://github.com/Nirosha053/leet-code--10-problems/tree/master/1030-matrix-cells-in-distance-order) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Nirosha053/leet-code--10-problems/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Nirosha053/leet-code--10-problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1323-maximum-69-number](https://github.com/Nirosha053/leet-code--10-problems/tree/master/1323-maximum-69-number) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0867-transpose-matrix) |
 | [0929-unique-email-addresses](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0929-unique-email-addresses) |
 | [1004-max-consecutive-ones-iii](https://github.com/Nirosha053/leet-code--10-problems/tree/master/1004-max-consecutive-ones-iii) |
+| [1030-matrix-cells-in-distance-order](https://github.com/Nirosha053/leet-code--10-problems/tree/master/1030-matrix-cells-in-distance-order) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Nirosha053/leet-code--10-problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Nirosha053/leet-code--10-problems/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Nirosha053/leet-code--10-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0349-intersection-of-two-arrays) |
+| [1030-matrix-cells-in-distance-order](https://github.com/Nirosha053/leet-code--10-problems/tree/master/1030-matrix-cells-in-distance-order) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Nirosha053/leet-code--10-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Nirosha053/leet-code--10-problems/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## String
@@ -288,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0074-search-a-2d-matrix) |
 | [0867-transpose-matrix](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0867-transpose-matrix) |
+| [1030-matrix-cells-in-distance-order](https://github.com/Nirosha053/leet-code--10-problems/tree/master/1030-matrix-cells-in-distance-order) |
 | [1672-richest-customer-wealth](https://github.com/Nirosha053/leet-code--10-problems/tree/master/1672-richest-customer-wealth) |
 | [2906-construct-product-matrix](https://github.com/Nirosha053/leet-code--10-problems/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Nirosha053/leet-code--10-problems/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -418,4 +422,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0139-word-break) |
+## Geometry
+|  |
+| ------- |
+| [1030-matrix-cells-in-distance-order](https://github.com/Nirosha053/leet-code--10-problems/tree/master/1030-matrix-cells-in-distance-order) |
 <!---LeetCode Topics End-->
