@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0704-binary-search) |
@@ -428,4 +429,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1030-matrix-cells-in-distance-order](https://github.com/Nirosha053/leet-code--10-problems/tree/master/1030-matrix-cells-in-distance-order) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
