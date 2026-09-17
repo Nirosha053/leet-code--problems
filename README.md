@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0053-maximum-subarray) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0088-merge-sorted-array) |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0053-maximum-subarray) |
 | [0139-word-break](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0139-word-break) |
 | [0509-fibonacci-number](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0509-fibonacci-number) |
@@ -325,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0145-binary-tree-postorder-traversal) |
@@ -338,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0503-next-greater-element-ii) |
